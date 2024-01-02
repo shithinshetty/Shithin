@@ -41,4 +41,10 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
 
   
   </div>
+
+
+  ##Contact Me
+<div>
+  Email:shithinshetty07@gmail.com
+</div>
   </div>
