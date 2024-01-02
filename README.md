@@ -16,3 +16,8 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
   </a>
   
 </div>
+<div id="stats">
+  <h2>Stats</h2>
+  <img src="https://streak-stats.demolab.com?user=[your username]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your username]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
