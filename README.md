@@ -5,7 +5,7 @@
   <h2>Education</h2>
   <p>Education
 I hold a degree in Computer Science from VTU. Throughout my academic journey, I delved into various programming languages and technologies, cultivating a strong foundation in problem-solving and algorithmic thinking.</p>
-</div>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shithin-shetty/">
@@ -31,3 +31,4 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"  title="D3" alt="D3" width="40" height="40"/>&nbsp;
   <div>
+  </div>
