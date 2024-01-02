@@ -40,5 +40,5 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
     
 
   
-  <div>
+  </div>
   </div>
