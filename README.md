@@ -37,7 +37,7 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  title="Next JS" alt="next" width="60" height="60"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  title="C#" alt="csharp" width="60" height="60"/>&nbsp;
 
-     </div>
+  
 
 
 
