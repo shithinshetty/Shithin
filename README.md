@@ -40,11 +40,11 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
     
 
   
- 
+ </div>
 
 
-  ##Contact Me
-<div>
+  #Contact Me
+<div id="contact">
   Email:shithinshetty07@gmail.com
 </div>
   </div>
