@@ -22,7 +22,7 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shithinshetty&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
-## Favorite Tech
+## Favourite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="js" width="60" height="60"/>&nbsp;
