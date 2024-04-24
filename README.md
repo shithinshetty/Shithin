@@ -36,6 +36,14 @@ I hold a degree in Computer Science from VTU. Throughout my academic journey, I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="cpp" width="60" height="60"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  title="Next JS" alt="next" width="60" height="60"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  title="C#" alt="csharp" width="60" height="60"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"  title="NestJS" alt="nestjs" width="60" height="60"/>&nbsp;
+
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg " title="PostGRes" alt="postgres width="60" height="60"/>&nbsp;
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+           title="Postman" alt="postman" width="60" height="60"/>&nbsp;
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg " title="PostGRes" alt="postgres width="60" height="60"/>&nbsp;
 
   
 
